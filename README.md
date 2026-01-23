@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ted-pizzaeater
 - 👀 I’m interested in programming and videogames
-- 🌱 I’m currently learning python, lua
 
 ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
 <!---
